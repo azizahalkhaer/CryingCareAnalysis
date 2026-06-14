@@ -1,0 +1,17 @@
+# Mengabaikan folder dataset (WAJIB)
+dataset/
+
+# Mengabaikan file audio rekaman sementara
+temp_audio.wav
+
+# Mengabaikan file cache Python
+__pycache__/
+*.pyc
+
+# Mengabaikan environment (jika kamu pakai virtual environment)
+venv/
+env/
+.env
+
+# Mengabaikan file sistem Mac (jika kamu pakai Mac)
+.DS_Store
